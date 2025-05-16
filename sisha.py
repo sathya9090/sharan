@@ -10,3 +10,4 @@ hi da mathi
 solu da dharun
 solu da sharan
 hey dharun nee innum sagalaya da venna
+hi diya bhambi
