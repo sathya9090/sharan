@@ -9,4 +9,4 @@ print(f)
 hi da mathi
 solu da dharun
 solu da sharan
-hey dharun nee innum sagalaysa da venna
+hey dharun nee innum sagalaya da venna
