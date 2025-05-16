@@ -6,3 +6,4 @@ d=10
 e=20
 f=d*e
 print(f)
+hi da mathi
